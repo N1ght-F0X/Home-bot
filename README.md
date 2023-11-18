@@ -1,8 +1,8 @@
-<h1>Website Terms and Conditions of Use</h1>
+<h1>App Terms and Conditions of Use</h1>
 
 <h2>1. Terms</h2>
 
-<p>By accessing this service, accessible from Discord, you are agreeing to be bound by these Home Terms and Conditions of Use and agreeing that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained on this website are protected by copyright and trade mark law.</p>
+<p>By accessing this service, accessible from Discord, you are agreeing to be bound by these Home Terms and Conditions of Use and agreeing that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained on this website and app are protected by copyright and trade mark law.</p>
 
 <h2>2. Usage</h2>
 
